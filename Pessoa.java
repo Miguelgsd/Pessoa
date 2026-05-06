@@ -2,6 +2,7 @@ public class Pessoa {
     public String nome;
     public int idade;
     public String cpf;
+    public boolean ativo;
 
     public Pessoa(String nome, int idade, String cpf){
         this.nome = nome;
